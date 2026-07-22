@@ -4,7 +4,7 @@ Personal portfolio website built for the **Front-End Programming** final project
 
 ## Framework
 **React 18 + Vite 5** with React Router v6
-**You must have installed node js as well**
+**You must have installed node js as well, to install Node.js first → nodejs.org → download the LTS version, install it**
 ## Features
 - **3 pages:** Home, About, Contact — linked via React Router
 - **Dark mode toggle** that persists in `localStorage` and respects `prefers-color-scheme`
@@ -14,9 +14,11 @@ Personal portfolio website built for the **Front-End Programming** final project
 - **Responsive:** mobile hamburger menu, fluid grid layouts, `clamp()` typography
 ## Quick start
 ```
-# 1. Install dependencies
-open VS code and open a terminal, then npm install
-# 2. Start the dev server
+# 1. Unzip the file
+Right-click mau-portfolio-final.zip → Extract All (Windows) or double-click (Mac). Put the folder somewhere easy like your Desktop.
+# 2. Install dependencies
+open the folder in VS code and open a terminal, then npm install
+# 3. Start the dev server
 npm run dev
 ```
 It's going to apper a link, copy and open it [http://localhost:5173](http://localhost:5173) in your browser.
